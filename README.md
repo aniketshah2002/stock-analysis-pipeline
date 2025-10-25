@@ -34,8 +34,6 @@ The goal was to build a hands-on project demonstrating skills in data engineerin
 
 ### Dashboard Screenshot
 
-(Take a screenshot of your finished Looker Studio dashboard and upload it to your GitHub repo. You can then add it here by writing:)
-
 `![Dashboard Screenshot](stock-analysis-dashboard.png)`
 
 ---
@@ -89,4 +87,5 @@ moving_calcs AS (
     daily_data
 ),
 -- ... (paste the rest of your query here) ...
+
 
