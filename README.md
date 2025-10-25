@@ -34,8 +34,7 @@ The goal was to build a hands-on project demonstrating skills in data engineerin
 
 ### Dashboard Screenshot
 
-`![Dashboard Screenshot](stock-analysis-dashboard.png)`
-
+`![Dashboard Screenshot]([stock-analysis-dashboard.png](https://github.com/aniketshah2002/stock-analysis-pipeline/blob/a7a2f9ac32c58c4cc9bdd5e3bf54c9a3b14456d0/stock-analysis-dashboard.png))`
 ---
 
 ### Advanced SQL Analysis
@@ -87,5 +86,6 @@ moving_calcs AS (
     daily_data
 ),
 -- ... (paste the rest of your query here) ...
+
 
 
